@@ -1,0 +1,1 @@
+C:\Users\wys\Desktop\myfirstrustproject\14\add\target\debug\adder.exe: C:\Users\wys\Desktop\myfirstrustproject\14\add\add-one\src\lib.rs C:\Users\wys\Desktop\myfirstrustproject\14\add\adder\src\main.rs
