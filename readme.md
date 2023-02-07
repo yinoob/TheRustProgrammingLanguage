@@ -1,2 +1,1 @@
-### my first Rust code
-
+### my first Rust code,from [The Rust Programming Language - The Rust Programming Language (rust-lang.org)](https://doc.rust-lang.org/stable/book/)
